@@ -56,7 +56,7 @@ AI-WhiteBoard/ <br>
 1. Clone this repository:
    ```bash
 
-
+   git clone https://github.com/gauri0304/AI-enhanced-WhiteBoard.git
 --- 
 
 🙌 Acknowledgments 
