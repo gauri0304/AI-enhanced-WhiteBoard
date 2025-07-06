@@ -59,6 +59,24 @@ AI-WhiteBoard/ <br>
    git clone https://github.com/gauri0304/AI-enhanced-WhiteBoard.git
 --- 
 
+2. Navigate to the project folder:
+
+   cd AI-WhiteBoard
+
+---
+
+3. Install dependencies:
+
+   pip install -r requirements.txt
+
+---
+
+4. Run the application:
+
+   python main.py
+
+---
+
 🙌 Acknowledgments 
 
 OpenAI for AI capabilities
