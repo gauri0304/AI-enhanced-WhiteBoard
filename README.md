@@ -60,6 +60,7 @@ AI-WhiteBoard/ <br>
 --- 
 
 🙌 Acknowledgments 
+
 OpenAI for AI capabilities
 
 Tesseract OCR
