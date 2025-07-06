@@ -50,3 +50,20 @@ AI-WhiteBoard/ <br>
 │ └── whiteboard.db <br>
 └── README.md 
 
+---
+## 🚀 How to Run Locally
+
+1. Clone this repository:
+   ```bash
+
+
+--- 
+
+🙌 Acknowledgments 
+OpenAI for AI capabilities
+
+Tesseract OCR
+
+SpeechRecognition for voice features
+
+Python community for Tkinter and SQLite support
