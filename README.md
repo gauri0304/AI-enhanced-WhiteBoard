@@ -1,9 +1,52 @@
-AI-enhanced WhiteBoard
+# 🧠 AI-enhanced WhiteBoard
 
-Advanced whiteboard app built with Tkinter & SQL for data storage. <br>
+An **advanced whiteboard application** built using **Python Tkinter** and **SQLite** for seamless user interaction and persistent data storage.
 
-AI features: <br> idea generation, text extraction, flowchart creation, voice assistant, and summarization. <br>
+🚀 Designed to boost **productivity** and spark **creativity** in **education**, **presentations**, and **professional workspaces**.
 
-Crafted for productivity and creativity in education and professional spaces. <br>
-<br>
-![board](https://github.com/user-attachments/assets/ce47c3a2-0bad-49f6-a0ab-0bbbf1c452d6)
+---
+
+## 🎯 Key Features
+
+- ✍️ **Draw, Write, Erase** – Classic whiteboard tools for sketches and notes  
+- 🤖 **AI Idea Generator** – Suggests creative ideas or content to add  
+- 📷 **Text Extraction from Images** – OCR-powered extraction for notes and documents  
+- 🧩 **Auto Flowchart Generator** – Transforms input into flowchart structures  
+- 🗣️ **Voice Assistant** – Convert voice to text for ease of use  
+- 📚 **Text Summarizer** – AI summarization for notes and explanations  
+- 💾 **SQL Integration** – Save and retrieve whiteboard sessions and notes  
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** Python Tkinter (GUI)
+- **Backend:** SQLite for persistent storage
+- **AI Integration:** OpenAI APIs or custom ML models
+- **Voice Recognition:** SpeechRecognition
+- **OCR:** Tesseract / pytesseract
+
+---
+
+## 📷 Screenshot
+
+![AI WhiteBoard](https://github.com/user-attachments/assets/ce47c3a2-0bad-49f6-a0ab-0bbbf1c452d6)
+
+---
+
+## 🗂️ Folder Structure
+AI-WhiteBoard/
+│
+├── main.py
+├── whiteboard_tools.py
+├── ai_features/
+│ ├── idea_generator.py
+│ ├── summarizer.py
+│ ├── flowchart_generator.py
+│ └── text_extraction.py
+├── assets/
+│ └── icons, fonts, images
+├── database/
+│ └── whiteboard.db
+└── README.md
+
