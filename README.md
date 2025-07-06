@@ -35,18 +35,18 @@ An **advanced whiteboard application** built using **Python Tkinter** and **SQLi
 ---
 
 ## 🗂️ Folder Structure
-AI-WhiteBoard/
-│
+AI-WhiteBoard/ <br>
+│ <br>
 ├── main.py <br>
 ├── whiteboard_tools.py <br>
-├── ai_features/
-│ ├── idea_generator.py
-│ ├── summarizer.py
-│ ├── flowchart_generator.py
-│ └── text_extraction.py
-├── assets/
-│ └── icons, fonts, images
-├── database/
-│ └── whiteboard.db
-└── README.md
+├── ai_features/ <br>
+│ ├── idea_generator.py <br>
+│ ├── summarizer.py <br>
+│ ├── flowchart_generator.py <br>
+│ └── text_extraction.py <br>
+├── assets/ <br>
+│ └── icons, fonts, images <br>
+├── database/ <br>
+│ └── whiteboard.db <br>
+└── README.md 
 
